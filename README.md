@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo App Link
+
+The demo version of the app is here [GPT3 Blog](https://personalblog-gpt3.netlify.app)
+
 ## Available Scripts
 
 In the project directory, you can run:
